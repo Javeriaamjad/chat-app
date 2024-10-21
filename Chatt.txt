@@ -1,0 +1,25 @@
+1. create folder
+2. npx create-next-app@latest ./
+3. npm i @emotion.react @emotion/styled @mui/icons-material bcryptjs mongoose pusher pusher-js next-cloudinary react-hook-form react-hot-toast
+@emotion/react and @emotion/styled: These are part of the Emotion library, which is a popular CSS-in-JS library for styling React components. @emotion/react provides the core functionality for using Emotion in React applications, while @emotion/styled allows you to create styled components using Emotion's CSS syntax.
+
+@mui/icons-material: This package provides a set of Material Design icons that you can use in your React application. It's part of the Material-UI library, a popular UI component library for React.
+
+bcryptjs: This package provides functions for hashing passwords using bcrypt, a popular password-hashing algorithm. It's commonly used in Node.js applications for securely storing and managing user passwords.
+
+mongoose: Mongoose is an object modeling library for MongoDB and Node.js. It provides a straightforward way to work with MongoDB databases by defining schemas, models, and queries in JavaScript.
+
+pusher and pusher-js: Pusher is a service that provides real-time communication and collaboration features for web and mobile applications. These packages allow you to integrate Pusher into your application to enable real-time updates and notifications.
+
+next-cloudinary: This package provides integration with Cloudinary, a cloud-based image and video management service. It allows you to easily upload, manipulate, and serve images and videos in your Next.js application using Cloudinary's APIs.
+
+react-hook-form: This package provides a set of React hooks for building forms in React applications. It simplifies form management and validation by allowing you to define form logic as React hooks.
+
+react-hot-toast: This package provides a simple and customizable toast notification system for React applications. It allows you to display notifications to users in response to certain events or actions, such as form submissions or error messages.
+
+4.npm install next-auth
+5.copy and paste the global css and tailwind.config...
+6.
+
+ 
+
