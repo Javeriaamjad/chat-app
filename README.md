@@ -33,9 +33,7 @@ To run this project locally, follow these steps:
 cd chat-app
 3. Install the dependencies:
 
-```bash
 npm install
 4. run the project:
 
-```bash
 npm run dev
